@@ -1,6 +1,7 @@
 hi this is keerthi
 <<<<<<< HEAD
 hi this is pranu
+<<<<<<< HEAD
 =======
 hi this is anvith
 <<<<<<< HEAD
@@ -8,3 +9,8 @@ hi this is anvith
 =======
 hi
 >>>>>>> bc0ae8f (k3)
+=======
+
+
+good night
+>>>>>>> 22340c0 (n)
